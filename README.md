@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CCS
 - 💞️ I’m looking to collaborate on, idk
-- 📫 How to reach me: tim*#6625
+- 📫 How to reach me: discord
 
 <!---
 timofeycodes/timofeycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
